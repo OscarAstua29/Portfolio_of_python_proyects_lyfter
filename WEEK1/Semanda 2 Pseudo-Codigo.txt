@@ -1,0 +1,22 @@
+Semanda 2 Pseudo-Codigo
+
+Definir precio_de_producto
+Defini precio_final
+
+si precio_de_producto < 100
+	precio_final = precio_de_producto * 0.02
+	mostrar precio_final
+sino 
+ 	precio_final = precio_de_producto * 0.10
+	mostrar precio_final
+fin
+------------------------------------------------------------
+definir segundos_dados
+definir segundos_faltantes
+
+si segundos_dados > 600
+	mostrar mayor
+sino segundos < 600
+	segundos_faltantes= segundos_dados - 600
+	mostrar segundos_faltantes
+fin

@@ -1,0 +1,2 @@
+Fecha,Total de ventas,Total de descuentos,Total de ingresos,Total de ganancia neta,Fecha,Total de ventas,Total de descuentos,Total de ingresos,Total de ganancia neta,Fecha,Total de ventas,Total de descuentos,Total de ingresos,Total de ganancia neta
+04/02/2022,5123.34,345.87,4777.47,3895.32,04/02/2022,5123.34,345.87,4777.47,3895.32,04/02/2022,5123.34,345.87,4777.47,3895.32
