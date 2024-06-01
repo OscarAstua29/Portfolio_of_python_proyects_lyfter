@@ -1,0 +1,28 @@
+Semana 1 Algoritmos
+
+Ejercicio 1
+
+1. inicio
+2. Seleccionar dispositivo
+	1. Busque el dispositivo
+3. Abrir navegador web Youtube.com
+4. Reproducir vídeo.
+	1.Busque un vídeo 
+	2.Reproducir vídeo
+5. fin
+
+
+Ejercicio 2
+
+1. Despertarse
+	1.Silenciar a Alexa
+	2.Revisar notificaciones en el celular.
+2. Bañarme 
+3.Alistarme
+4.Ir al trabajo
+5.Encender computadora
+6.Revisar pendientes
+7.Trabajar
+8.Almorzar
+9.Trabajar
+10.regresar a la casa

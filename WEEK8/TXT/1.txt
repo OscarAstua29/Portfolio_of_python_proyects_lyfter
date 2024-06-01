@@ -1,0 +1,3 @@
+Hola, este es un archivo de ejemplo,
+Aquí estamos escribiendo algunas líneas de texto,
+Espero que este ejemplo te sea, útil
