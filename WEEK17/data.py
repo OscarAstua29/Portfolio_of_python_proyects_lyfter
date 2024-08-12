@@ -1,7 +1,7 @@
 import csv
 import os
 
-FILE_PATH = 'WEEK17/FINANCEs_MANAGER.csv'
+FILE_PATH = './FINANCEs_MANAGER.csv'
 
 def export_data(data_list):
     try:

@@ -36,6 +36,7 @@ while True:
         else:
             add_window = ui.add_income_window(category_list)
             while True:
+                data.export_data(data_list)
                 add_event, add_values = add_window.read()
                 if add_event == sg.WIN_CLOSED or add_event == 'CANCEL':
                     add_window.close()
@@ -46,6 +47,7 @@ while True:
                         data_list.append(new_income)
                         window1['-TABLE-'].update(values=data_list)
                         add_window.close()
+                
 
     elif event == 'ADD EXPENSE':
         if not category_list:
@@ -53,6 +55,7 @@ while True:
         else:
             add_window = ui.add_expense_window(category_list)
             while True:
+                data.export_data(data_list)
                 add_event, add_values = add_window.read()
                 if add_event == sg.WIN_CLOSED or add_event == 'CANCEL':
                     add_window.close()
